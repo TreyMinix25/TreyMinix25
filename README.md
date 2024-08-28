@@ -1,9 +1,7 @@
 - 👋 Hi, my name is Trey Minix!
 - 👀 I’m interested in becoming a Back-end Engineer and eventually becoming a Full-Stack
 - 🌱 I’m currently learning Computer Science for my Bachelor's
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through email at: minixhstl52@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
