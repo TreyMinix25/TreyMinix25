@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Trey Minix!
-- 👀 I’m interested in becoming a Back-end Engineer and eventually becoming a Full-Stack
+- 👀 I’m interested in becoming a Front-end Engineer
 - 🌱 I’m currently learning Computer Science for my Bachelor's
 - 📫 Reach me through email at: minixhstl52@gmail.com
 - ⚡ Fun fact: ...
