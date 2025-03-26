@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Trey Minix!
-- 👀 I’m interested in becoming a Front-end Engineer
-- 🌱 I’m currently learning Computer Science for my Bachelor's
+- 👀 I’m looking to become a Front-end Engineer/ Web Developer 
+- 🌱 I'll be graduating with my Bachelor's in Computer Science in June 2025
 - 📫 Reach me through email at: minixhstl52@gmail.com
 - ⚡ Fun fact: ...
 
